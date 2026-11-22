@@ -3,6 +3,10 @@
 A small Nix flake that packages the official Beyond Compare 5 Linux tarball and
 exposes a Home Manager module.
 
+I no longer use Beyond Compare, so I may not notice problems or keep this flake
+up to date. Updates and improvements are welcome. Please open an issue if you
+run into a problem.
+
 ## Supported Systems
 
 - `x86_64-linux`
